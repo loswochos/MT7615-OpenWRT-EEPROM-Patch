@@ -1,0 +1,1 @@
+# MT7615-OpenWRT-EEPROM-Patch
